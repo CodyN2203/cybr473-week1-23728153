@@ -1,0 +1,11 @@
+python-dotenv
+requests
+Pillow
+selenium
+webdriver-manager
+nltk
+prettytable
+scikit-learn
+transformers
+torch
+bcrypt
