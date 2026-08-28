@@ -83,3 +83,12 @@ print("word list:",word_list)
 word_list.sort()
 print("sorted list:",word_list)
 print("")
+
+#5 Report how many occurences of each of the following
+# https://www.w3schools.com/python/ref_string_count.asp
+print("scandal:", excerpt.count("scandal"))
+print("arrested:", excerpt.count("arrested"))
+print("er:", excerpt.count("er"))
+print("good:", excerpt.count("good"))
+print("tomorrow:", excerpt.count("tomorrow"))
+print("")
