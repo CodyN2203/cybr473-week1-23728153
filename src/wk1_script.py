@@ -75,3 +75,11 @@ print("")
 count_words = len(excerpt.split())
 print("num words:",count_words)
 print("")
+
+# 4 Sort the words
+# https://www.w3schools.com/python/ref_list_sort.asp
+word_list = excerpt.split()
+print("word list:",word_list)
+word_list.sort()
+print("sorted list:",word_list)
+print("")
