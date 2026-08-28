@@ -54,3 +54,6 @@ In D2L Submit a link to your GitHub repository.
 excerpt = " Another one got caught today, it's all over the papers. Teenager Arrested in Computer Crime Scandal, Hacker Arrested after Bank Tampering kids. They're all alike"
 
 ''' Your work starts here '''
+#Cody Nelson
+#8/27/26
+#Violent Python CYBV 473
