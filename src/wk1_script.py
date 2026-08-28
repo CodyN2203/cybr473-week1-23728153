@@ -63,3 +63,9 @@ excerpt = " Another one got caught today, it's all over the papers. Teenager Arr
 lower_str = excerpt.lower()
 print("lower string:", lower_str)
 print("")
+
+#2 Count number of characters in the string
+# Reference: https://www.w3schools.com/python/ref_string_count.asp
+count_num_char = len(excerpt)
+print("num of char:", count_num_char)
+print("")
