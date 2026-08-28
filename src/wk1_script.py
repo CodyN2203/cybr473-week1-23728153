@@ -57,3 +57,9 @@ excerpt = " Another one got caught today, it's all over the papers. Teenager Arr
 #Cody Nelson
 #8/27/26
 #Violent Python CYBV 473
+
+#1 Convert the string to all lower
+# Reference: https://www.w3schools.com/python/ref_string_lower.asp
+lower_str = excerpt.lower()
+print("lower string:", lower_str)
+print("")
