@@ -69,3 +69,9 @@ print("")
 count_num_char = len(excerpt)
 print("num of char:", count_num_char)
 print("")
+
+#3 Count num words
+# https://www.geeksforgeeks.org/python/python-program-to-count-words-in-a-sentence/
+count_words = len(excerpt.split())
+print("num words:",count_words)
+print("")
